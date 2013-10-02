@@ -19,3 +19,4 @@ In the US 039482 would be an invalid zip code.
 I love the color #ccddee but I really don\'t like the color #b1dafb. 
 I once painted a room #741d0d. I tried to paint a room #y729iu but that isn\'t a color. 
 '
+$source_text = @source_text
